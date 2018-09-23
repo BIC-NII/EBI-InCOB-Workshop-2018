@@ -1,4 +1,4 @@
-## ECCB 2018 Workshop - Exploring Programmatic Access to Protein Sequence, Function and Structure Information
+## InCOB 2018 Workshop On Programmatic Access to Protein Sequence, Function and Structure with UniProt and PDBe
 
 ### Summary
 
@@ -11,31 +11,31 @@ Learn about accessing data such as gene-protein relationships, protein sequences
 ### Workshop schedule
 
 #### Session 1 - Introductions
-09:00 - 09.10 Welcome
+09:30 - 09.40 Welcome
 
-09:10 - 09:50 Introduction to UniProt
+09:40 - 10:20 Introduction to UniProt
 
-09:50 - 10:30 Introduction to PDBe
+10:20 - 11:00 Introduction to PDBe
 
 ###### Coffee break 30min
 
 #### Session 2 - API
-11:00 - 11:45 PDBe API
+11:30 - 12:15 PDBe API
 
-11:45 - 12:30 UniProt API
+12:15 - 13:00 UniProt API
 
 ###### Lunch break 60min
 
 #### Session 3 - Web components
 
-13:30 - 14:15 UniProt open access visualisation components
+14:00 - 14:45 UniProt open access visualisation components
 
-14:15 - 15:00 PDBe web component library
+14:45 - 15:30 PDBe web component library
 
 ###### Coffee break 30min
 
 #### Session 4 - Bring it all together
-15:30 - 17:00	Case study (or own ideas)
+16:00 - 17:30	Case study (or own ideas)
 
 <hr>
 
